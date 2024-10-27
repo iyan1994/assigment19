@@ -1,0 +1,3 @@
+--function ReverseString mengembalikan return string 
+--panggil function ReverseString di main dengan parameter berupa string 
+--jalankan go run main.go
